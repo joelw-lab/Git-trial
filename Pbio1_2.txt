@@ -3,5 +3,6 @@ Big bio data - my favorite
 Modelling and disease dynamics
 Biophython
 Population Genetics
+Journal Club
 Among others
 It is going to be an "interesting" semester
